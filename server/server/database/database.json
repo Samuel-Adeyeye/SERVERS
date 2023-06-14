@@ -1,0 +1,21 @@
+[
+  {
+    "organization": "Decagon",
+    "createdAt": "2023-06-11T22:35:20.810Z",
+    " updatedAt": "2020-08-12T19:04:55.455Z",
+    " products": [
+      "Software",
+      "Applications"
+    ],
+    "marketValue": "90%",
+    "address": "ikeja",
+    "ceo": "DBeckham",
+    "country": "SAfrica",
+    "id": 1,
+    "noOfEmployees": 2,
+    "employees": [
+      "Israel Peters",
+      "Blessing Akinpelu"
+    ]
+  }
+]
